@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class que3 {
     public static void main(String[] args) {
         String s =" Neeraj Auchar ";
-        replaceSpaces(s, s.length());
 
+        System.out.println(Integer.MAX_VALUE);
     }
 
     static void q3(String s){
